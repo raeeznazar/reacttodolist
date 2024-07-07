@@ -169,3 +169,8 @@ main h2 {
   font-weight: 400;
   /* Adjust the weight according to your needs */
 }
+
+
+.completed{
+  text-decoration:  line-through;
+}
